@@ -1,0 +1,12 @@
+{
+    "name": "ccny-scidiv/corebilling",
+    "authors": [
+        {
+            "name": "dfimiarz",
+            "email": "dfimiarz@ccny.cuny.edu"
+        }
+    ],
+    "require": {
+        "silex/silex": "~2.0"
+    }
+}
